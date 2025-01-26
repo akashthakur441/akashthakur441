@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @akashthakur441
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning machine learning,Java and DSA
-- 💞️ I’m looking to collaborate on machine learning or dsa project
-- 📫 How to reach me:akashthaakur130@gmail.com
+- 💞️ I’m looking to collaborate on ML projects.
+- 📫 Reach me on Linkedin:https://www.linkedin.com/in/akash-thakur-000935280/
 - 😄 Pronouns:i always keen to learning new things...
 - ⚡ Fun fact: i love to play badminton and  the errors keeps my strong interest in coding.
 
